@@ -1,16 +1,19 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/BartokLayout.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/__Scripts/CardProspector.cs">
     <Files>
-      <File FileName="Assets/__Scripts/Bartok.cs" Line="14" Column="23" />
-      <File FileName="Assets/__Scripts/BartokLayout.cs" Line="41" Column="6" />
+      <File FileName="Assets/__Scripts/Bartok.cs" Line="160" Column="30" />
+      <File FileName="Assets/__Scripts/BartokLayout.cs" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/CardBartok.cs" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/Scoreboard.cs" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/FloatingScore.cs" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/Card.cs" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/CardProspector.cs" Line="1" Column="1" />
       <File FileName="Assets/__Scripts/Player.cs" Line="1" Column="1" />
-      <File FileName="Assets/__Scripts/Prospector.cs" Line="19" Column="56" />
+      <File FileName="Assets/__Scripts/Prospector.cs" Line="1" Column="1" />
+      <File FileName="Assets/__Scripts/GameStartScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/BartokLayoutXML.xml" Line="23" Column="69" />
+      <File FileName="Assets/Resources/LayoutXML.xml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
